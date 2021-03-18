@@ -1,3 +1,5 @@
 hello, im 1st file commit
 
 fkmnekrdn
+
+After branch create (checkout) for add 
