@@ -3,3 +3,5 @@ hello, im 1st file commit
 fkmnekrdn
 
 After branch create (checkout) for add.
+
+After branch create vk-branch-2 for checkout and clone in single cmd
